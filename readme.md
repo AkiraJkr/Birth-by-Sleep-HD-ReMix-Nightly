@@ -9,7 +9,7 @@ Or make a pull request if you do not wish to contact me.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: pre-1.1
+# Latest Version: 1.1.0-part1
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
@@ -49,9 +49,9 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 
 <br>_S ULJM-05775
 <br>_G Kingdom Hearts Birth by Sleep Final Mix
-<br>_C0 Force 60 FPS Mode
+<br>_C0 60 FPS Mode
 <br>_L 0x21725EC8 0x00000000
-<br>_C0 Japanese Language
+<br>_C0 Japanese Audio
 <br>_L 0x0035B02E 0x00000001
 <br>_C0 Disable Subtitles(Broken outside Theater)
 <br>_L 0x017189FC 0x00000000
