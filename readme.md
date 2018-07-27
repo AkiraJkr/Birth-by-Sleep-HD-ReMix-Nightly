@@ -10,7 +10,7 @@ If you want to contribute to this project, you can either contact me in Discord(
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.1.0-part1
+# Latest Version: 1.1.0-part2
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
