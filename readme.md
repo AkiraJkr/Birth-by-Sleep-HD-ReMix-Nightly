@@ -73,9 +73,9 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, so basically, use a version of PPSSPP that is under 1.5.4-484. I recommend simply using 1.5.4 if that issue bothers you soo much. This is not a error in the texture pack.
 
 <br><b>Q:</b> Why do the faces look blocky/robotic?
-<br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. See here: https://goo.gl/p5a1Pn
-Explanation:I picked a random expression from the ones I dumped in the game, and put it ontop, in higher priority, however you prefer it worded, then I threw in the other expressions that dumped, and implemented them.
-Result: The first act shows the faces working fine, without the ones I dumped implemented, like it should, before I cut her last line, but on the second act, she's stuck on the sad face. She will stay stuck on that face for the rest of the game. That's the reason I preferred to NOT implement the faces at all.
+<br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. Example video here: https://goo.gl/p5a1Pn
+<br>Explanation:I picked a random expression from the ones I dumped in the game, and put it ontop, in higher priority, however you prefer it worded, then I threw in the other expressions that dumped, and implemented them.
+<br>Result: The first act shows the faces working fine, without the ones I dumped implemented, like it should, before I cut her last line, but on the second act, she's stuck on the sad face. She will stay stuck on that face for the rest of the game. That's the reason I preferred to NOT implement the faces at all.
 <br>If you know a breakthrough, tell me.
 
 <br><b>Q:</b> When I'm pressing X, my character attacks, and O, they jump, which opposes my HUD, what's wrong here?
