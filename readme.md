@@ -74,9 +74,9 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 
 <br><b>Q:</b> Why do the faces look blocky/robotic?
 <br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. Example video here: https://goo.gl/p5a1Pn
-<br>Explanation:I picked a random expression from the ones I dumped in the game, and put it ontop, in higher priority, however you prefer it worded, then I threw in the other expressions that dumped, and implemented them.
-<br>Result: The first act shows the faces working fine, without the ones I dumped implemented, like it should, before I cut her last line, but on the second act, she's stuck on the sad face. She will stay stuck on that face for the rest of the game. That's the reason I preferred to NOT implement the faces at all.
-<br>If you know a breakthrough, tell me.
+<br><b><i>Explanation:</b></i> I picked a random expression from the ones I dumped in the game, and put it ontop, in higher priority, however you prefer it worded, then I threw in the other expressions that dumped, and implemented them.
+<br><b><i>Result:</b></i> The first act shows the faces working fine, without the ones I dumped implemented, like it should, before I cut her last line, but on the second act, she's stuck on the sad face. She will stay stuck on that face for the rest of the game. That's the reason I preferred to NOT implement the faces at all.
+<br><b><i>If you know a breakthrough, tell me.<b><i>
 
 <br><b>Q:</b> When I'm pressing X, my character attacks, and O, they jump, which opposes my HUD, what's wrong here?
 <br><b>Q:</b> You seem to be playing the Not-Final Mix version of the game. Please check the Button Swaps folder in the Optional folder of the texture pack. Also don't forget to change your controls if you are using the swaps in the Final Mix version.
