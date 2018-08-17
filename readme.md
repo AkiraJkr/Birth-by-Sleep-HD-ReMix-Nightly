@@ -3,10 +3,10 @@ A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSP
 
 <b>Warning:</b>
 This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Birth by Sleep FINAL MIX.</b>
-<br>Although I can't help you if you have issues with it <b>a compatibility patch was made for it but it's not perfect.</b> 
-<br>It should work automatically if you change the folder from ULJM05775 to ULES01441 and properly check the Button Swaps folder in Optional.
+<br>Although I can't help you if you have issues with it <b>a partial patch was made for it but it's not perfect.</b> 
+<br>It should work automatically if you change the folder from ULJM05775 to (Region you're playing) and properly check the Button Swaps folder in Optional.(Don't forget the read me)
 
-If you want to contribute to this project, you can either contact me in Discord(AkiraJkr#6764) or do a pull request with your changes/submit issues.
+Compatible with both EUR/USA versions.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
@@ -81,9 +81,9 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>Q:</b> When I'm pressing X, my character attacks, and O, they jump, which opposes my HUD, what's wrong here?
 <br><b>Q:</b> You seem to be playing the Not-Final Mix version of the game. Please check the Button Swaps folder in the Optional folder of the texture pack. Also don't forget to change your controls if you are using the swaps in the Final Mix version.
 
-<br><b>Q:</b> How can I donate/support the project?
-<br><b>A:</b> Contact me on Discord. AkiraJkr#6764
-
 <br><b>Q:</b> Could you give me a meme?
 <br><b>A:</b> Sure. Here you are: https://i.imgur.com/4qVc8Uq.jpg
 
+
+<br><b>Q:</b> How can I donate/support the project or contact you?
+<br><b>A:</b> Contact me on Discord. AkiraJkr#6764
