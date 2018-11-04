@@ -10,11 +10,11 @@ Compatible with both EUR/USA versions.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.3.0
+# Latest Version: 1.4
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
-<br><b>Download Links:</b>
+# Download Links:
 
 <br>Stable Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/
 <br>Stable Version Download: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
