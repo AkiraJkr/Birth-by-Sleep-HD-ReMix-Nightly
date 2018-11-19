@@ -37,7 +37,7 @@ Album: https://imgur.com/a/0YzyF1t
 
 If TEXTURES doesn't exist, create it, along with(depending of which version/region you have)ULJM05775/ULES01441/ULUS10505 folder, and then drag'n'drop all contents from the ZIP inside it.
 
-In the end, it should look like this for example: **PPSSPPDir/memstick/PSP/TEXTURES/ULJM05775/AllOfThisGitContents**
+In the end, it should look like this for example: **PPSSPPDir/memstick/PSP/TEXTURES/ULJM05775/GithubContents**
 
 It should automatically work if you have not disabled texture replacement, if you did, enable it in Settings/Tools/Developer tools.
 
@@ -87,7 +87,7 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>A:</b> The project is currently not finished, do not expect too many things made at the moment, I am one man working on the textures.ini alone. The compatibility with the Not-Final Mix version of the game is **NOT** complete, but bearable.
 
 <br><b>Q:</b> The Command Bar is ALWAYS filled, what the hell!
-<br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, <s>so basically, use a version of PPSSPP that is under 1.5.4-484.</s> Use the latest version instead.(1.7.x+)
+<br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, <s>so basically, use a version of PPSSPP that is under 1.5.4-484.</s> Use the latest version instead.(1.7.2+)
 
 <br><b>Q:</b> Why do the faces look blocky/robotic?
 <br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. <b><i>Example video here:</b></i> https://goo.gl/p5a1Pn
@@ -103,5 +103,5 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 
 
 
-<br><b>Q:</b> How can I donate/support the project or contact you?
+<br><b>Q:</b> How can I support the project or contact you?
 <br><b>A:</b> Contact me via Discord(AkiraJkr#6764), Twitter(@AkiraJkr1) or my email: akirajkr1@gmail.com
