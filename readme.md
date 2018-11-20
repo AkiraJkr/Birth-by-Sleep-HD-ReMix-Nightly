@@ -43,6 +43,12 @@ It should automatically work if you have not disabled texture replacement, if yo
 
 Please delete the folder before updating or it may cause errors.
 
+# Patching Aqua's Model
+
+This is the only process you have to do yourself. And I am not helping you beyond the following.
+
+Access the Patches folder, and follow the instructions in the readme.
+
 # Extras
 
 <b>Extra Compatibility with the non-Final Mix version in the Optional folder, please CHECK there before you play in that version.</b>
