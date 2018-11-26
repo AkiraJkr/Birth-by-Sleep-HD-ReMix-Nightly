@@ -11,6 +11,7 @@ After that, that's it. Just enjoy it! No need to do anything else.
 
 
 (No promises that this works on non-Final Mix)
+((But on the other hand, I am pretty sure this only works on English Patched Final Mix))
 PLEASE DON'T DELETE THIS FOLDER, OR TEXTURES WON'T WORK.
 
 
