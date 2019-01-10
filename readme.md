@@ -1,4 +1,6 @@
 # Birth by Sleep HD ReMix+
+<i>Also known as Birth by Sleep HDification.
+
 <br>A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSPP Emulator.
 
 <br><b><i>Contact on the bottom.</i></b>
@@ -47,7 +49,7 @@ Please delete the folder before updating or it may cause errors.
 
 This is the only process you have to do yourself. And I am not helping you beyond the following.
 
-Access the Patches folder, and follow the instructions in the readme.
+Access the Patches folder, and follow the instructions in the readme. This only works on the English Patched Final Mix.
 
 # Extras
 
