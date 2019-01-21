@@ -1,5 +1,5 @@
 # Birth by Sleep HD ReMix+
-<i>Also known as Birth by Sleep HDification.
+<i>Also known as Birth by Sleep HDification.</i>
 
 <br>A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSPP Emulator.
 
